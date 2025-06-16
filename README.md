@@ -60,7 +60,7 @@ I’m a technically versatile engineer with a passion for writing clean code and
 **Data Analyst Intern** @ Blue Cross Blue Shield of Alabama *(May 2025 – Present)*  
 **Data Analyst Intern** @ UAB Athletics *(Aug 2024 – Dec 2024)*  
 **Software Engineer Intern** @ Radical AI *(May 2024 – Jul 2024)*  
-**Systems Engineer** @ Infosys *(Sep 2021 – Jul 2023)*
+**Systems Engineer** @ Infosys *(Jan 2021 – Jul 2023)*
 
 ---
 
